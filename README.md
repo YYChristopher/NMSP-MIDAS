@@ -5,19 +5,33 @@ Code to reproduce simulation results, figures, and real data analysis results fr
 ## Package need and Package version
 
 Rcpp >= ‘1.0.8.3’
+
 RcppArmadillo >= ‘0.11.0.0.0’
+
 xts >= ‘0.12.1’
+
 fbi >= ‘0.7.0’
+
 gtools >= ‘3.9.2’
+
 data.table >= ‘1.14.2’
+
 dplyr >= ‘1.0.8’
+
 midasr >= ‘0.8’
+
 tseries >= ‘0.10.50’
+
 MASS >= ‘7.3.51.6’
+
 forecast >= ‘8.16’
+
 LaplacesDemon >= ‘16.1.6’
+
 ggplot2 >= ‘3.3.5’
+
 ggExtra >= ‘0.10.1’
+
 latex2exp >= ‘0.9.6’
 
 ## Organization

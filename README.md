@@ -82,9 +82,17 @@ Then, running 'RealHMSP.R' to execute the main program file of HMSP-MIDAS, that 
 
 ### Output workflow
 
-First, change the work directory into file 'Analysis.R'(into the folder 'output/Simulation'), file 'VSPlot.R', 'OOS_NMSP.R' and 'OOS_HMSP.R'(into the folder 'output/RealAnalysis').
+#### Simulation Folder
+
+First, change the work directory into file 'Analysis.R', 'DICPlot.R'(into the folder 'output/Simulation'). 
+
+Then, running 'DICPlot.R' to plot the figure S3 of online appendix. The output figures are stored into folder 'Plots'.
 
 Then, running 'Analysis.R' to plot the figure S4 of online appendix. The output figures are stored into folder 'Plots'.
+
+#### RealAnalysis Folder
+
+First, change the work directory into file 'VSPlot.R', 'OOS_NMSP.R' and 'OOS_HMSP.R'(into the folder 'output/RealAnalysis').
 
 Then, running 'VSPlot.R' to plot the figure S6 and S7 of online appendix. The output figures are stored into folder 'Plots'.
 

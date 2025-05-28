@@ -54,6 +54,9 @@ The source files (often LaTeX or Rmd) for the manuscript, and introduction of fu
 ### output
 The figure into the Paper plotting routines and corresponding output results used in the paper.
 
+#### Description
+This folder includes some figures plotting code in introduction and online appendix.
+
 #### Simulation
 This folder includes out-of-sample forecasting results and figures plotting code of the numerical simulations.
 
@@ -81,6 +84,16 @@ Second, running 'RealMain.R' to execute the main program file of NMSP-MIDAS, tha
 Then, running 'RealHMSP.R' to execute the main program file of HMSP-MIDAS, that is, use HMSP-MIDAS model to analysis real data. The (b) subfigure of figure 2 in the Paper which is stored into folder 'Plots'. You can also get the one-step forecasting results of the expanding window(You can store the result by yourself).
 
 ### Output workflow
+
+#### Description Folder
+
+The xls file 'RealStateAll.xls' is utilized to plot the upper plot of figure 1. We convert the economic states defined by NBER in the USERC file(data folder) into quarterly form.
+
+The file 'PreProcess' is used to get data to plot.
+
+Running 'CorHeatMap.R' to plot the upper plot of figure 1. The output figures are stored into folder 'Plots'.
+
+Running 'BoxplotD.R' to plot the lower plot of figure 1 and the figure S5 in the online appendix. The output figures are stored into folder 'Plots'.
 
 #### Simulation Folder
 

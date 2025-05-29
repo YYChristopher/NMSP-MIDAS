@@ -43,7 +43,7 @@ Code of simulation and real analysis of the Paper.
 This folder contains the code for empirical analysis, encompassing data preprocessing procedures, a collection of tool functions, Rcpp update scripts, and the implementation of the NMSP-MIDAS and HMSP-MIDAS models.
 
 #### simulation
-This folder contains the code for the numerical simulation section, including data generation procedures, a suite of toolfunctions, Rcpp update scripts, the main experimental function for the NMSP-MIDAS model, and the code for out-of-sample forecasting.
+This folder contains the code for the numerical simulation section, including data generation procedures, a suite of toolfunctions, Rcpp update scripts, the main experimental function for the NMSP-MIDAS model, and the code for out-of-sample forecasting. In addition, the folder also includes manually implemented code for the comparing methods, including estimation and forecasting function files for the HMSP-MIDAS, BMIDAS-AGL, and BMIDAS-AGL-SS methods.
 
 ### data
 Data utilized into real analysis of the Paper.

@@ -61,7 +61,7 @@ This folder includes some figures plotting code in introduction and online appen
 This folder includes out-of-sample forecasting results and figures plotting code of the numerical simulations.
 
 #### RealAnalysis
-This folder includes several results figures plotting code of  the real analysis.
+This folder includes several results and figures plotting code of the real analysis.
 
 
 

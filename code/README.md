@@ -77,5 +77,5 @@ The main functions for the BMIDAS-AGL and BMIDAS-AGL-SS methods are provided in 
 
 ## The utilized packages version:
 
-ncvreg: >= 3.13.0; glmnet: >= 4.1.4; midasml: >= 0.1.9.1; BMA: >= 3.18.15; psych: >= 2.4.6.26; tseries: >= 0.10.50.
+`ncvreg`: >= 3.13.0; `glmnet`: >= 4.1.4; `midasml`: >= 0.1.9.1; `BMA`: >= 3.18.15; `psych`: >= 2.4.6.26; `tseries`: >= 0.10.50.
 

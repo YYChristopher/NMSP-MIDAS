@@ -73,7 +73,7 @@ Second, running 'RealMain.R' to execute the main program file of NMSP-MIDAS, tha
 
 Then, running 'RealHMSP.R' to execute the main program file of HMSP-MIDAS, that is, use HMSP-MIDAS model to analysis real data. The (b) subfigure of figure 2 in the Paper which is stored into folder 'Plots'. You can also get the one-step forecasting results of the expanding window(You can store the result by yourself).
 
-The main functions for the BMIDAS-AGL and BMIDAS-AGL-SS methods are provided in the folder `simulation`(BMIDAS.R). For the benchmark method AR(1), we mainly rely on the classic time series package `tseries` in R. The packages used for other comparison methods are consistent with those introduced in the simulation workflow section. 
+The main functions for the BMIDAS-AGL and BMIDAS-AGL-SS methods are provided in the folder 'simulation'(BMIDAS.R). For the benchmark method AR(1), we mainly rely on the classic time series package `tseries` in R. The packages used for other comparison methods are consistent with those introduced in the simulation workflow section. 
 
 ## The utilized packages version:
 
